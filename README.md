@@ -28,3 +28,10 @@ Soft skills:
  •  Aprendizado Contínuo
  •  Proatividade e colaboração para resolução de problemas
 
+
+Entre em contato comigo:
+• cauefranco01@gmail.com
+• https://www.linkedin.com/in/cau%C3%AA-franco-a14231351/
+
+
+
