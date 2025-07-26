@@ -1,7 +1,7 @@
 Olá, sou Cauê Franco
 	•	Desenvolvedor Back-End em formação
 	•	Estudante de Análise e Desenvolvimento de Sistemas
-	•	17 anos | João Pessoa - PB
+	•	18 anos | João Pessoa - PB
 
 
 Sobre mim:
