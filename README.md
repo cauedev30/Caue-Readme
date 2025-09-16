@@ -12,7 +12,7 @@ Busco evoluir constantemente como programador e contribuir positivamente na reso
 
 
 Tecnologias que estou estudando:
-	•	Python / MySQL
+	•	Python / Django
 	•	Git e GitHub
 	•	APIs REST
 
