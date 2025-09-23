@@ -35,4 +35,4 @@ Aprendizado contínuo e adaptação
 
 E-mail: cauefranco01@gmail.com
 
-LinkedIn: Cauê Franco
+LinkedIn: linkedin.com/in/cauê-franco-c777
