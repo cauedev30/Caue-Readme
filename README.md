@@ -21,17 +21,6 @@ APIs REST
 Banco de Dados Relacional (PostgreSQL, MySQL)
 
 
-🔧 Soft Skills:
-
-Comunicação clara e objetiva
-
-Trabalho em equipe e colaboração
-
-Proatividade na resolução de problemas
-
-Aprendizado contínuo e adaptação
-
-
 📬 Entre em Contato:
 
 E-mail: cauefranco01@gmail.com
